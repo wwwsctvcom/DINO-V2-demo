@@ -2,7 +2,7 @@
 lane detection based DINO V2 model, offering a simple reading and easy usage code for training and predict.
 
 
-# Dataset
+# Data
 数据集使用kaggle中的数据集`https://www.kaggle.com/datasets/lyhue1991/lanelines`
 
 
